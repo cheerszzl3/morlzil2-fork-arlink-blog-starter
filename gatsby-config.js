@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Arlink Starter Blog`,
+    title: `Margon's Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Margon`,
+      summary: `my blog`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `This is a blog site built by Gatsby.`,
+    siteUrl: `https://morlzil-2-fork-arlink-blog-starter_arlink.arweave.net/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `cheerszzl3`,
     },
   },
   plugins: [
