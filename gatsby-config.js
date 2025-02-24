@@ -12,7 +12,7 @@ module.exports = {
     title: `Margon's Blog`,
     author: {
       name: `Margon`,
-      summary: `my blog`,
+      summary: ``,
     },
     description: `This is a blog site built by Gatsby.`,
     siteUrl: `https://morlzil-2-fork-arlink-blog-starter_arlink.arweave.net/`,
