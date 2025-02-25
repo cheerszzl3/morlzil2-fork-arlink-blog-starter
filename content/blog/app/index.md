@@ -8,7 +8,7 @@ description: "Bible"
 
 - Bible English/Chinese Pro: [APK](https://app_cooltest.ar.io/app/Bible_Pro_chs_en.apk)
 
-![logo](./logo.png)
+![logo1](./logo1.png)
 
 <p style="margin-bottom: 25px;">&emsp;</p>
 
